@@ -42,3 +42,17 @@
 - **Pinned comment** on every video: "What can we pray for you today? 🙏"
 - **Community posts** on non-upload days (Tue/Thu/Sat): a verse of the day, a poll ("What do you need prayer for this week?"), or a preview of tomorrow's prayer.
 - **Comment declaration:** close every script with "Type '___' in the comments." Replies to those comments help a video get recommended.
+
+## Posting from Nigeria (WAT, UTC+1)
+Eastern Time is UTC−5 for this whole period, so **WAT = ET + 6 hours**.
+
+| Calendar says | Schedule in Nigeria (WAT) |
+|---|---|
+| 4:00 AM ET (Christmas Day) | 10:00 AM WAT, same date |
+| 4:30 AM ET (standard) | 10:30 AM WAT, same date |
+| 5:00 AM ET (Christmas Eve) | 11:00 AM WAT, same date |
+| 4:00 PM ET (New Year's Eve) | 10:00 PM WAT, same date |
+
+- In YouTube Studio, the scheduling time zone can be set to "(GMT-05:00) Eastern Time" so you can type the calendar times as they are. Otherwise, use the WAT column.
+- Upload and schedule videos 2–3 days early, whenever power and internet are reliable, so an outage never makes you miss a date.
+- **If most of your viewers are in Nigeria rather than the US:** schedule for 5:00 AM WAT instead. Swap Thanksgiving for a general gratitude prayer, add a **Boxing Day (Dec 26)** prayer and a **Crossover Night prayer (Dec 31, 9:00 PM WAT)**, and post the New Year prayer at 6:00 PM WAT.
